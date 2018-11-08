@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import {Col, Thumbnail, Button } from 'react-bootstrap';
-import thumbnail from './thumbnaildiv.png';
+import thumbnail from '../../thumbnaildiv.png';
 
 class ProductGrid extends Component {
     

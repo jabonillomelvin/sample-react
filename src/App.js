@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 import './index.css';
 import Login from './Login';
 import Registration from './Registration';
-import ProductViews from './ProductViews';
+import ProductViews from './components/products/ProductViews';
 import { BrowserRouter as Router, Route } from "react-router-dom";
 
 class App extends Component {
